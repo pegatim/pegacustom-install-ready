@@ -1,1 +1,1 @@
-# custom-pegamkt-install-ready
+pegacustom-install-ready
